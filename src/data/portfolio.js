@@ -32,7 +32,7 @@ export const personalInfo = {
   emailLink: 'mailto:kothamritac@gmail.com',
   linkedin: 'https://linkedin.com/in/kothamrita-chakraborty',
   github: 'https://github.com/Kothamrita',
-  resume: '/resume.pdf',
+  resume: '/resume1.pdf',
   role: 'AI/ML • Full-Stack Developer • Computer Science Engineering Undergraduate',
   description:
     'Building intelligent, practical software at the intersection of AI, machine learning and full-stack engineering.',
